@@ -1,0 +1,956 @@
+# Translation of Plugins - Testimonial Grid and Testimonial Slider plus Carousel with Rotator Widget - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Testimonial Grid and Testimonial Slider plus Carousel with Rotator Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-30 12:55:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Testimonial Grid and Testimonial Slider plus Carousel with Rotator Widget - Stable (latest release)\n"
+
+#: includes/admin/wtwp-how-it-work.php:189
+msgid "Gain access to"
+msgstr "Получите доступ к"
+
+#: includes/admin/wtwp-how-it-work.php:182
+msgid "Fusion Page Builder (Avada) native support"
+msgstr "Встроенная поддержка Fusion Page Builder (Avada)"
+
+#: includes/admin/wtwp-how-it-work.php:180
+msgid "Gutenberg, Elementor, Beaver and SiteOrigin Page Builder Support"
+msgstr "Поддержка Gutenberg, Elementor, Beaver и конструктора страниц SiteOrigin"
+
+#: includes/admin/settings/solution-features/solutions-features.php:139
+msgid "Reviews"
+msgstr "Обзоры"
+
+#: includes/admin/settings/solution-features/solutions-features.php:131
+msgid "Basic Vs Pro"
+msgstr "Basic против Pro"
+
+#: includes/admin/settings/solution-features/solutions-features.php:127
+msgid "Pro Features"
+msgstr "Pro функции"
+
+#: includes/admin/settings/solution-features/solutions-features.php:123
+msgid "Welcome"
+msgstr "Добро пожаловать!"
+
+#: includes/admin/class-wtwp-admin.php:175
+msgid "Overview"
+msgstr "Обзор"
+
+#. Plugin Name of the plugin
+#: wp-testimonials.php
+msgid "WP Testimonials with Rotator Widget"
+msgstr "WP Testimonials with Rotator Widget"
+
+#: includes/admin/wtwp-how-it-work.php:109
+msgid "Demo"
+msgstr "Демо"
+
+#: includes/admin/wtwp-how-it-work.php:104
+msgid "Check Documentation"
+msgstr "Ознакомиться с документацией"
+
+#: includes/admin/wtwp-how-it-work.php:172
+msgid "Testimonial Premium Features"
+msgstr "Премиум-функции Testimonial"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Essential Plugin Bundle Free Trial"
+msgstr "Бесплатная пробная версия - Essential Plugin Bundle"
+
+#: includes/admin/settings/trail-premium.php:15
+msgid "Testimonials with "
+msgstr "Testimonials с "
+
+#. Author of the plugin
+#: wp-testimonials.php
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr "WP OnlineSupport, Essential Plugin"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: wp-testimonials.php
+msgid "https://www.essentialplugin.com/wordpress-plugin/wp-testimonial-with-widget/"
+msgstr "https://www.essentialplugin.com/wordpress-plugin/wp-testimonial-with-widget/"
+
+#: includes/wtwp-functions.php:142
+msgid "Enter company or job url."
+msgstr "Введите URL компании или должность."
+
+#: includes/wtwp-functions.php:134
+msgid "Enter company name."
+msgstr "Введите название компании."
+
+#: includes/wtwp-functions.php:126
+msgid "Enter job title."
+msgstr "Введите название должности."
+
+#: includes/wtwp-functions.php:118
+msgid "Enter client name."
+msgstr "Введите имя клиента."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:85
+msgid "Do not display the testimonial & Do not display the testimonial for particular categories."
+msgstr "Не отображать отзыв и не отображать отзывы для определенных рубрик."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:82
+msgid "Exclude Testimonial and Exclude Some Categories "
+msgstr "Исключить отзывы и исключить некоторые рубрики "
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:77
+msgid "Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer and Fusion Page Builder Support"
+msgstr "Поддержка блоков Gutenberg, Elementor, Bevear Builder, SiteOrigin, Divi, Visual Composer и Fusion Page Builder"
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:74
+msgid "Page Builder Support "
+msgstr "Поддержка Page Builder "
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:69
+msgid "Arrange your desired slides with your desired order and display."
+msgstr "Расположите слайды в нужном порядке и отобразите их."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:66
+msgid "Drag & Drop Slide Order Change "
+msgstr "Перетащить и изменить порядок слайдов "
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:61
+msgid "Play with all shortcode parameters with preview panel. No documentation required."
+msgstr "Воспроизведение всех параметров шорткада с помощью панели предварительного просмотра. Документация не требуется."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:45
+msgid "In lite version only 4 design."
+msgstr "В версии lite только 4 дизайна."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:37
+msgid "3 (Grid, Slider, form)."
+msgstr "3 (Сетка, Слайдер, форма)."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:34
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:42
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:50
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:58
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:66
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:74
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:82
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:34
+msgid "Layouts "
+msgstr "Макеты "
+
+#: includes/admin/class-wtwp-admin.php:152
+msgid "More Premium - Settings"
+msgstr "Премиум - Настройки"
+
+#: includes/admin/class-wtwp-admin.php:83
+msgid "Select testimonial rating."
+msgstr "Выберите рейтинг отзывов."
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:194
+msgid "WPBakery Page Builder Supports "
+msgstr "Поддержка WPBakery Page Builder "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:184
+msgid "Use this plugin with Divi Builder easily"
+msgstr "Легко используйте этот плагин с Divi Builder"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:184
+#: includes/admin/wtwp-how-it-work.php:181
+msgid "Divi Page Builder Native Support"
+msgstr "Встроенная поддержка Divi Page Builder"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:179
+msgid "Use this plugin with SiteOrigin easily"
+msgstr "Легко используйте этот плагин с SiteOrigin"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:179
+msgid "SiteOrigin Page Builder Support"
+msgstr "Поддержка SiteOrigin Page Builder"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:174
+msgid "Use this plugin with Bevear Builder easily"
+msgstr "Легко используйте этот плагин с Bevear Builder"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:174
+msgid "Bevear Builder Support"
+msgstr "Поддержка Bevear Builder"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:169
+msgid "Use this plugin with Elementor easily"
+msgstr "Использовать этот плагин с Elementor просто"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:169
+msgid "Elementor Page Builder Support"
+msgstr "Поддержка Elementor Page Builder"
+
+#: includes/admin/wtwp-how-it-work.php:184
+msgid "WPBakery Page Builder Supports."
+msgstr "Поддержка WPBakery Page Builder."
+
+#: includes/admin/wtwp-how-it-work.php:160
+msgid "Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" target=\"_blank\">5 stars!"
+msgstr "Вам понравился этот плагин? Вы можете помочь, оценив этот плагин <a href=\"%s\" target=\"_blank\">5 звезд!"
+
+#: includes/admin/wtwp-how-it-work.php:139
+msgid "Step-3. Add any block of testimonial and you will find its relative options on the right end side."
+msgstr "Шаг 3. Добавьте любой блок отзывов, и вы найдете его относительные параметры с правой стороны."
+
+#: includes/admin/wtwp-how-it-work.php:138
+msgid "Step-2. Search \"testimonial\" keyword in the gutenberg block list."
+msgstr "Шаг-2. Найдите ключевое слово \"testimonial\" в списке блоков gutenberg."
+
+#: includes/admin/wtwp-how-it-work.php:137
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr "Шаг 1. Перейдите в редактор Gutenberg вашей страницы."
+
+#: includes/admin/wtwp-how-it-work.php:133
+msgid "How it Work"
+msgstr "Как это работает"
+
+#: includes/admin/wtwp-how-it-work.php:125
+msgid "Gutenberg Support"
+msgstr "Поддержка Gutenberg"
+
+#: wpos-plugins/includes/admin/class-espbw-admin.php:36
+msgid "Essential Plugins Bundle By WP OnlineSuport"
+msgstr "Essential Plugins Bundle от WP OnlineSuport"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:312
+msgid "Sorry, No result found. Please refine your search."
+msgstr "Извините, ничего не найдено. Уточните свой поиск."
+
+#: wpos-plugins/includes/admin/views/dashboard.php:301
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Совместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:299
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Несовместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:297
+msgid "Untested with your version of WordPress"
+msgstr "Не тестировалось с вашей версией WordPress"
+
+#. translators: %s: Number of installations.
+#: wpos-plugins/includes/admin/views/dashboard.php:290
+msgid "%s Active Installations"
+msgstr "%s Активные установки"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:285
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Менее 10"
+
+#. translators: %s: Number of millions.
+#: wpos-plugins/includes/admin/views/dashboard.php:281
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "Более %s миллиона"
+msgstr[1] "Более %s миллионов"
+msgstr[2] "Более %s миллионов"
+
+#. translators: %s: Human-readable time difference.
+#: wpos-plugins/includes/admin/views/dashboard.php:271
+msgid "%s ago"
+msgstr "%s назад"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:268
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:223
+msgid "More Details"
+msgstr "Детали"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:221
+msgid "More information about %s"
+msgstr "Больше информации про %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:210
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Установлен"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:197
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Активировать для сети %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:195
+msgid "Network Activate"
+msgstr "Активировать для сети"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:184
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:182
+msgid "Activate"
+msgstr "Активировать"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:179
+msgctxt "plugin"
+msgid "Active"
+msgstr "Активные"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:168
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Невозможно обновить"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:163
+msgid "Update Now"
+msgstr "Обновить сейчас"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:161
+msgid "Update %s now"
+msgstr "Обновить %s сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:146
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Невозможно установить"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:141
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:139
+msgid "Install %s now"
+msgstr "Установить %s сейчас"
+
+#. translators: %s: Plugin author.
+#: wpos-plugins/includes/admin/views/dashboard.php:110
+msgid "By %s"
+msgstr "Автор %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:75
+msgid "Search Plugins e.g popup"
+msgstr "Поиск плагинов, например, popup"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:70
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:69
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:68
+msgid "Utility Plugins"
+msgstr "Плагины утилит"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:67
+msgid "All Essential Plugins"
+msgstr "Все основные плагины"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:59
+msgid "Essential Plugin"
+msgstr "Essential Plugin"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:319
+msgid "here"
+msgstr "здесь"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:319
+msgid "You can take a look at our all plugins at"
+msgstr "Вы можете ознакомиться со всеми нашими плагинами на"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:44
+msgid "Sorry, It looks like that you do not have permission to install the plugin."
+msgstr "Извините, похоже, у вас нет разрешения на установку плагина."
+
+#: includes/admin/wtwp-how-it-work.php:187
+msgid "100% Multi language"
+msgstr "100% многоязычный"
+
+#: includes/admin/wtwp-how-it-work.php:186
+msgid "Fully responsive"
+msgstr "Полная совместимость"
+
+#: includes/admin/wtwp-how-it-work.php:185
+msgid "Display Testimonial categories wise."
+msgstr "Отображение отзывов по рубрикам."
+
+#: includes/admin/wtwp-how-it-work.php:183
+msgid "Template overriding feature support."
+msgstr "Поддержка функции переопределения шаблонов."
+
+#: includes/admin/wtwp-how-it-work.php:179
+msgid "Display testimonials using 20 testimonial widget designs."
+msgstr "Отображайте отзывы, используя 20 дизайнов виджетов отзывов."
+
+#: includes/admin/wtwp-how-it-work.php:178
+msgid "Star rating"
+msgstr "Звёздный рейтинг"
+
+#: includes/admin/wtwp-how-it-work.php:177
+msgid "Testimonial front-end form."
+msgstr "Фронтальная форма отзывов."
+
+#: includes/admin/wtwp-how-it-work.php:176
+msgid "20 Designs"
+msgstr "20 дизайнов"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:251
+msgid "1 Year OR Lifetime"
+msgstr "1 год или пожизненно"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:249
+msgid "Get support for plugin"
+msgstr "Получить поддержку для плагина"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:249
+msgid "Support "
+msgstr "Поддержка "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:245
+#: includes/admin/settings/solution-features/basicpro-tab.php:246
+#: includes/admin/settings/solution-features/basicpro-tab.php:250
+msgid "Lifetime"
+msgstr "Время существования"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:244
+msgid "Get automatic plugin updates"
+msgstr "Получайте авто обновления плагинов"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:244
+msgid "Automatic Update "
+msgstr "Автообновление "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:239
+msgid "Slider supports for RTL website"
+msgstr "Слайдер поддерживает сайт RTL"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:239
+msgid "Slider RTL Support "
+msgstr "Поддержка слайдера RTL (справа налево) "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:234
+msgid "Slider parameters like autoplay, number of slide, sider dots and etc."
+msgstr "Параметры слайдера, такие как автовоспроизведение, количество слайдов, точки слайда и т. п."
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:234
+msgid "Multiple Slider Parameters "
+msgstr "Несколько параметров слайдера "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:229
+msgid "Display post according to date, title and etc"
+msgstr "Отображение записи по дате, заголовку и т.п"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:229
+msgid "Post Order / Order By Parameters "
+msgstr "Порядок записей / Упорядочить по параметрам "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:224
+msgid "Do not display the posts for particular categories"
+msgstr "Не отображать записи для определенных рубрик"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:224
+msgid "Exclude Some Categories "
+msgstr "Исключить некоторые рубрики "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:219
+msgid "Do not display the posts you want"
+msgstr "Не отображать записи, которые вы хотите"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:219
+msgid "Exclude Some Posts"
+msgstr "Исключить некоторые записи"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:214
+msgid "Display only the posts with particular category"
+msgstr "Отображать только записи с определенной рубрикой"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:214
+msgid "Display Post for Particular Categories "
+msgstr "Отображать отзывы для определенных рубрик "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:208
+msgid "Display only the post you want"
+msgstr "Отображать только ту запись, который вы хотите"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:208
+msgid "Display Desired Post "
+msgstr "Отобразить желаемую запись "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:204
+msgid "Support with Jetpack to publish your News post on"
+msgstr "Поддержка Jetpack для публикации ваших новостных сообщений на"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:204
+msgid "Publicize "
+msgstr "Публикация "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:199
+msgid "Redirect post to third party destination if any"
+msgstr "Перенаправить запись на сторонний пункт назначения, если таковой имеется"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:199
+msgid "Custom Read More link for Post "
+msgstr "Пользовательская ссылка Подробнее для записи "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:194
+msgid "Use this plugin with Visual Composer/WPBakery page builder easily"
+msgstr "Легко используйте этот плагин с конструктором страниц Visual Composer/WPBakery"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:164
+msgid "Use this plugin with Gutenberg easily"
+msgstr "Легко используйте этот плагин с Gutenberg"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:164
+msgid "Gutenberg Block Supports "
+msgstr "Поддержка блоков Gutenberg "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:159
+msgid "Arrange your desired post with your desired order and display"
+msgstr "Расположите записи в нужном порядке и отобразите их"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:159
+msgid "Drag & Drop Post Order Change "
+msgstr "Перетащите и вставить изменение порядка записи "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:153
+msgid "WordPress Widgets to your sidebars."
+msgstr "Виджеты WordPress на ваши боковые панели."
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:153
+msgid "Widgets "
+msgstr "Виджеты "
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:53
+#: includes/admin/settings/solution-features/basicpro-tab.php:148
+msgid "You can modify plugin html/designs in your current theme."
+msgstr "Вы можете изменить html/дизайн плагина в вашей текущей теме."
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:50
+#: includes/admin/settings/solution-features/basicpro-tab.php:148
+msgid "WP Templating Features "
+msgstr "Возможности шаблонов WP "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:143
+msgid "Play with all shortcode parameters with preview panel. No documentation required!!"
+msgstr "Воспроизведение всех параметров шорткада с помощью панели предварительного просмотра. Документация не требуется!!"
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:58
+#: includes/admin/settings/solution-features/basicpro-tab.php:143
+msgid "Shortcode Generator "
+msgstr "Генератор шорткодов "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:138
+msgid "Add extra power to the shortcode"
+msgstr "Добавьте дополнительные возможности к шорткоду"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:138
+msgid "Shortcode Parameters "
+msgstr "Параметры шорткода "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:135
+msgid "3 (Grid, Slider, form)"
+msgstr "3 (Сетка, Слайдер, форма)"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:134
+msgid "2 (Grid, Slider)"
+msgstr "2 (Сетка, Слайдер)"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:133
+msgid "Shortcode provide output to the front-end side"
+msgstr "Шорткод обеспечивает вывод на внешний интерфейс сайта"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:133
+msgid "Shortcodes "
+msgstr "Шорткоды "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:128
+msgid "Designs that make your website better"
+msgstr "Дизайн, который сделает ваш сайт лучше"
+
+#: includes/admin/metabox/wtwp-post-setting-metabox.php:42
+#: includes/admin/settings/solution-features/basicpro-tab.php:128
+msgid "Designs "
+msgstr "Дизайны "
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:121
+msgid "Premium"
+msgstr "Премиум"
+
+#: includes/admin/settings/solution-features/basicpro-tab.php:118
+msgid "Free"
+msgstr "Бесплатно"
+
+#: includes/widget/wp-widget-testimonials.php:240 assets/js/blocks.build.js:1
+msgid "Slider Auto Height"
+msgstr "Автоподбор высоты слайдера"
+
+#: includes/widget/wp-widget-testimonials.php:192 assets/js/blocks.build.js:1
+msgid "Dots"
+msgstr "Точки"
+
+#: includes/widget/wp-widget-testimonials.php:174 assets/js/blocks.build.js:1
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: includes/widget/wp-widget-testimonials.php:141
+msgid "Testimonial URL Slug"
+msgstr "Ярлык URL отзыва"
+
+#: includes/widget/wp-widget-testimonials.php:139
+msgid "Author"
+msgstr "Автор"
+
+#: includes/widget/wp-widget-testimonials.php:137
+msgid "Modified Date"
+msgstr "Дате изменения"
+
+#: includes/widget/wp-widget-testimonials.php:123
+msgid "Select testimonial design. Note: Some design will not look good in a small area of widget."
+msgstr "Выберите дизайн отзыва. Примечание. Некоторые элементы дизайна не будут хорошо смотреться на небольшой площади виджета."
+
+#: includes/widget/wp-widget-testimonials.php:40
+msgid "Testimonial Post Slider"
+msgstr "Слайдер записи с отзывами"
+
+#. Description of the plugin
+#: wp-testimonials.php
+msgid "Easy to add and display client's testimonial on your website with rotator widget. Also work with Gutenberg shortcode block."
+msgstr "Легко добавить и отобразить отзыв клиента на вашем сайте с помощью виджета ротатора. Также работайте с блоком шорткодов Gutenberg."
+
+#: wp-testimonials.php:158
+msgid "It looks like you had PRO version %s of this plugin activated. To avoid conflicts the extra version has been deactivated and we recommend you delete it."
+msgstr "Похоже, у вас активирована PRO версия %s этого плагина. Во избежание конфликтов дополнительная версия была деактивирована, и мы рекомендуем вам удалить ее."
+
+#: wp-testimonials.php:157
+msgid "Thank you for activating %s"
+msgstr "Спасибо за активацию %s"
+
+#: includes/admin/class-wtwp-admin.php:178
+#: includes/admin/wtwp-how-it-work.php:190
+msgid "Upgrade To PRO"
+msgstr "Обновить до Pro"
+
+#: includes/admin/class-wtwp-admin.php:178
+msgid "Upgrade To PRO - WP Testimonials with rotator widget"
+msgstr "Обновить до PRO - WP Testimonials with rotator widget"
+
+#: wpos-analytics/wpos-analytics.php:60 wpos-analytics/wpos-analytics.php:72
+#: wpos-plugins/wpos-recommendation.php:60
+#: wpos-plugins/wpos-recommendation.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: wpos-analytics/includes/class-anylc-admin.php:418
+#: wpos-analytics/includes/class-anylc-admin.php:437
+#: wpos-analytics/includes/class-anylc-admin.php:456
+#: wpos-plugins/includes/admin/views/dashboard.php:318
+msgid "Sorry, Something happened wrong."
+msgstr "Извините, что-то пошло не так."
+
+#: wpos-analytics/includes/class-anylc-admin.php:230
+msgid "Opt In"
+msgstr "Принять участие"
+
+#: wpos-analytics/includes/class-anylc-admin.php:224
+msgid "Opt Out"
+msgstr "Отказаться"
+
+#: includes/wtwp-functions.php:162 assets/js/blocks.build.js:1
+msgid "Design 4"
+msgstr "Дизайн 4"
+
+#: includes/admin/wtwp-how-it-work.php:156
+msgid "Help to improve this plugin!"
+msgstr "Помогите улучшить плагин!"
+
+#: includes/admin/wtwp-how-it-work.php:101
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/admin/wtwp-how-it-work.php:95
+msgid "Step-2. Use WP Testimonials Slider to display Testimonials in widget area with slider"
+msgstr "Шаг-2. Используйте WP Testimonials Slider для отображения отзывов в области виджета со слайдером"
+
+#: includes/admin/wtwp-how-it-work.php:94
+msgid "Step-1. Go to Appearance --> Widget."
+msgstr "Шаг-1. Перейдите в раздел Внешний вид --> Виджет."
+
+#: includes/admin/wtwp-how-it-work.php:90
+msgid "Widget"
+msgstr "Виджет"
+
+#: includes/admin/wtwp-how-it-work.php:84
+msgid "Display in slider with 4 designs"
+msgstr "Отображение в слайдере с 4 вариантами дизайна"
+
+#: includes/admin/wtwp-how-it-work.php:83
+msgid "Display in grid with 4 designs"
+msgstr "Отображение в виде сетки с 4 вариантами дизайна"
+
+#: includes/admin/wtwp-how-it-work.php:80
+msgid "All Shortcodes"
+msgstr "Все шорткоды"
+
+#: includes/admin/wtwp-how-it-work.php:73
+msgid "Step-2. Put below shortcode as per your need."
+msgstr "Шаг 2. Поместите ниже шорткод в соответствии с вашими потребностями."
+
+#: includes/admin/wtwp-how-it-work.php:72
+msgid "Step-1. Create a page like Testimonials OR What our client says."
+msgstr "Шаг 1. Создайте страницу, например Отзывы или Что говорит наш клиент."
+
+#: includes/admin/wtwp-how-it-work.php:68
+msgid "How Shortcode Works"
+msgstr "Как работает шорткод"
+
+#: includes/admin/wtwp-how-it-work.php:61
+msgid "Step-4. Once added, press Publish button"
+msgstr "Шаг-4. После добавления нажмите кнопку Опубликовать"
+
+#: includes/admin/wtwp-how-it-work.php:60
+msgid "Step-3. Add Testimonial Details like Client Name, Job Title detials etc"
+msgstr "Шаг 3. Добавьте сведения об отзыве, такие как имя клиента, сведения о должности и т. д"
+
+#: includes/admin/wtwp-how-it-work.php:59
+msgid "Step-2. Add  Testimonials title, description and images"
+msgstr "Шаг-2. Добавьте заголовок, описание и изображения отзывов"
+
+#: includes/admin/wtwp-how-it-work.php:58
+msgid "Step-1. Go to \"WP Testimonials --> Add New\"."
+msgstr "Шаг 1. Перейдите в раздел \"WP Testimonials --> Добавить новый\"."
+
+#: includes/admin/wtwp-how-it-work.php:54
+msgid "Getting Started"
+msgstr "Приступая к работе"
+
+#: includes/admin/wtwp-how-it-work.php:46
+msgid "How It Works - Display and shortcode"
+msgstr "Как это работает - отображение и шорткод"
+
+#: includes/admin/class-wtwp-admin.php:172
+#: includes/admin/wtwp-how-it-work.php:36
+msgid "How It Works"
+msgstr "Как это работает"
+
+#: includes/admin/class-wtwp-admin.php:172
+msgid "How it works, our plugins and offers"
+msgstr "Как это работает, наши плагины и предложения"
+
+#: includes/widget/wp-widget-testimonials.php:256
+msgid "Display Quotes"
+msgstr "Показать цитаты"
+
+#: includes/admin/wtwp-how-it-work.php:189
+msgid "WP testimonials with rotator widget"
+msgstr "Отзывы о WP с виджетом-ротатором"
+
+#: includes/wtwp-functions.php:161 assets/js/blocks.build.js:1
+msgid "Design 3"
+msgstr "Дизайн 3"
+
+#: includes/wtwp-functions.php:160 assets/js/blocks.build.js:1
+msgid "Design 2"
+msgstr "Дизайн 2"
+
+#: includes/wtwp-functions.php:159 assets/js/blocks.build.js:1
+msgid "Design 1"
+msgstr "Дизайн 1"
+
+#: includes/widget/wp-widget-testimonials.php:234 assets/js/blocks.build.js:1
+msgid "Square"
+msgstr "Квадратные"
+
+#: includes/widget/wp-widget-testimonials.php:233 assets/js/blocks.build.js:1
+msgid "Circle"
+msgstr "Круг"
+
+#: includes/widget/wp-widget-testimonials.php:195
+#: includes/widget/wp-widget-testimonials.php:204
+#: includes/widget/wp-widget-testimonials.php:213
+#: includes/widget/wp-widget-testimonials.php:243 assets/js/blocks.build.js:1
+msgid "False"
+msgstr "False"
+
+#: includes/widget/wp-widget-testimonials.php:194
+#: includes/widget/wp-widget-testimonials.php:203
+#: includes/widget/wp-widget-testimonials.php:212
+#: includes/widget/wp-widget-testimonials.php:242 assets/js/blocks.build.js:1
+msgid "True"
+msgstr "True"
+
+#: includes/widget/wp-widget-testimonials.php:151 assets/js/blocks.build.js:1
+msgid "Descending"
+msgstr "По убыванию"
+
+#: includes/widget/wp-widget-testimonials.php:150 assets/js/blocks.build.js:1
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: includes/widget/wp-widget-testimonials.php:142 assets/js/blocks.build.js:1
+msgid "Random"
+msgstr "Случайный"
+
+#: includes/widget/wp-widget-testimonials.php:136
+msgid "Date"
+msgstr "Дата"
+
+#: includes/widget/wp-widget-testimonials.php:110
+#: includes/widget/wp-widget-testimonials.php:140
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/widget/wp-widget-testimonials.php:138
+msgid "ID"
+msgstr "ID"
+
+#: includes/widget/wp-widget-testimonials.php:148 assets/js/blocks.build.js:1
+msgid "Order"
+msgstr "Упорядочение"
+
+#: includes/widget/wp-widget-testimonials.php:134 assets/js/blocks.build.js:1
+msgid "Order By"
+msgstr "Упорядочить по"
+
+#: includes/widget/wp-widget-testimonials.php:274
+msgid "Display Company"
+msgstr "Отображать компанию"
+
+#: includes/widget/wp-widget-testimonials.php:268
+msgid "Display Job"
+msgstr "Отображать должность"
+
+#: includes/widget/wp-widget-testimonials.php:262
+msgid "Display Client"
+msgstr "Отображать клиента"
+
+#: includes/widget/wp-widget-testimonials.php:250
+msgid "Display Avatar"
+msgstr "Отображать аватар"
+
+#: includes/widget/wp-widget-testimonials.php:231 assets/js/blocks.build.js:1
+msgid "Image Style"
+msgstr "Стиль изображения"
+
+#: includes/widget/wp-widget-testimonials.php:225 assets/js/blocks.build.js:1
+msgid "Speed"
+msgstr "Скорость"
+
+#: includes/widget/wp-widget-testimonials.php:219 assets/js/blocks.build.js:1
+msgid "Autoplay Interval"
+msgstr "Интервал автозапуска"
+
+#: includes/widget/wp-widget-testimonials.php:210
+msgid "Auto Play"
+msgstr "Авто-воспроизведение"
+
+#: includes/widget/wp-widget-testimonials.php:201 assets/js/blocks.build.js:1
+msgid "Arrows"
+msgstr "Стрелки"
+
+#: includes/widget/wp-widget-testimonials.php:186
+msgid "Slides to Scroll"
+msgstr "Слайды для прокрутки"
+
+#: includes/widget/wp-widget-testimonials.php:180
+msgid "Slides Column"
+msgstr "Столбец слайдов"
+
+#: includes/widget/wp-widget-testimonials.php:163
+msgid "All"
+msgstr "Все"
+
+#: includes/widget/wp-widget-testimonials.php:116 assets/js/blocks.build.js:1
+msgid "Design"
+msgstr "Дизайн"
+
+#: includes/widget/wp-widget-testimonials.php:128
+msgid "Limit"
+msgstr "Лимит"
+
+#: includes/widget/wp-widget-testimonials.php:34
+msgid "WP Testimonials Slider"
+msgstr "WP Testimonials Slider"
+
+#: includes/widget/wp-widget-testimonials.php:33
+msgid "Display testimonials on your site."
+msgstr "Отображать отзывы на вашем сайте."
+
+#: includes/wtwp-functions.php:141
+msgid "URL"
+msgstr "URL"
+
+#: includes/wtwp-functions.php:133
+msgid "Company"
+msgstr "Компания"
+
+#: includes/wtwp-functions.php:125
+msgid "Job Title"
+msgstr "Название должности"
+
+#: includes/wtwp-functions.php:117
+msgid "Client Name"
+msgstr "Имя клиента"
+
+#: includes/admin/class-wtwp-admin.php:49
+msgid "Testimonial Details"
+msgstr "Детали отзыва"
+
+#: includes/admin/class-wtwp-admin.php:264
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/widget/wp-widget-testimonials.php:157
+#: includes/wtwp-post-types.php:68 includes/wtwp-post-types.php:69
+#: includes/wtwp-post-types.php:78
+msgid "Category"
+msgstr "Рубрика"
+
+#: includes/wtwp-post-types.php:77
+msgid "New Category Name"
+msgstr "Название новой рубрики"
+
+#: includes/wtwp-post-types.php:76
+msgid "Add New Category"
+msgstr "Добавить новую рубрику"
+
+#: includes/wtwp-post-types.php:75
+msgid "Update Category"
+msgstr "Обновить рубрику"
+
+#: includes/wtwp-post-types.php:74
+msgid "Edit Category"
+msgstr "Изменить рубрику"
+
+#: includes/wtwp-post-types.php:72 includes/wtwp-post-types.php:73
+msgid "Parent Category"
+msgstr "Родительская рубрика"
+
+#: includes/wtwp-post-types.php:71
+msgid "All Category"
+msgstr "Все рубрики"
+
+#: includes/wtwp-post-types.php:70
+msgid "Search Category"
+msgstr "Поиск рубрики"
+
+#: includes/wtwp-post-types.php:33
+msgid "WP Testimonials"
+msgstr "WP Testimonials"
+
+#: includes/wtwp-post-types.php:22
+msgid "Testimonial"
+msgstr "Отзыв"

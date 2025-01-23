@@ -1,0 +1,260 @@
+# Translation of Themes - T-Shirt Clothing in Russian
+# This file is distributed under the same license as the Themes - T-Shirt Clothing package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-10 09:46:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - T-Shirt Clothing\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "T-Shirt Clothing"
+msgstr "T-Shirt Clothing"
+
+#: functions.php:302
+msgid "On"
+msgstr "Вкл"
+
+#: functions.php:303
+msgid "Off"
+msgstr "Откл"
+
+#: functions.php:300
+msgid "Check To show Section"
+msgstr "Отметьте, чтобы показывать раздел"
+
+#: functions.php:97
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:437
+msgid "T-Shirt Clothing WordPress Theme"
+msgstr "Тема WordPress для одежды для футболок"
+
+#: functions.php:493
+msgid "https://wordpress.org/support/theme/t-shirt-clothing"
+msgstr "https://wordpress.org/support/theme/t-shirt-clothing"
+
+#: functions.php:496
+msgid "https://wordpress.org/support/theme/t-shirt-clothing/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/t-shirt-clothing/reviews/#new-post"
+
+#: functions.php:511
+msgid "Premium T-Shirt Clothing Theme"
+msgstr "Тема Premium T-Shirt Clothing"
+
+#. translators: %s: post title
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:27
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:77
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: functions.php:79 functions.php:99
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:87
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:89
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:117
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:127
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:137
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: functions.php:460
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: functions.php:464
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: functions.php:465
+msgid "Contact Page Template"
+msgstr "Шаблон страницы контактов"
+
+#: functions.php:466
+msgid "Multiple Blog Layouts"
+msgstr "Несколько макетов блога"
+
+#: functions.php:467
+msgid "Unlimited Color Options"
+msgstr "Неограниченная цветовая палитра"
+
+#: functions.php:468
+msgid "Designed with HTML5 and CSS3"
+msgstr "Разработано с использованием HTML5 и CSS3"
+
+#: functions.php:469
+msgid "Customizable Design & Code"
+msgstr "Настраиваемый дизайн и код"
+
+#: functions.php:470
+msgid "Cross Browser Support"
+msgstr "Поддержка кросс-браузерных технологий"
+
+#: functions.php:471
+msgid "Detailed Documentation Included"
+msgstr "Подробная документация в комплекте"
+
+#: functions.php:472
+msgid "Stylish Custom Widgets"
+msgstr "Стильные пользовательские виджеты"
+
+#: functions.php:473
+msgid "Patterns Background"
+msgstr "Паттерны фона"
+
+#: functions.php:474
+msgid "WPML Compatible (Translation Ready)"
+msgstr "Совместим с WPML (готов к переводу)"
+
+#: functions.php:475
+msgid "Woo-commerce Compatible"
+msgstr "Совместимость с WooCommerce"
+
+#: functions.php:476
+msgid "Full Support"
+msgstr "Полная поддержка"
+
+#: functions.php:477
+msgid "10+ Sections"
+msgstr "Более 10-и разделов"
+
+#: functions.php:478
+msgid "Live Customizer"
+msgstr "Визуальная настройка темы"
+
+#: functions.php:479
+msgid "AMP Ready"
+msgstr "Готов к AMP"
+
+#: functions.php:481
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: functions.php:482
+msgid "Supper Fast"
+msgstr "Supper Fast"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: functions.php:200 functions.php:486
+msgid "UPGRADE CLOTHING PREMIUM"
+msgstr "ОБНОВИТЬ ДО CLOTHING PREMIUM"
+
+#: functions.php:208
+msgid "T-SHIRT CLOTHING PREMIUM"
+msgstr "T-SHIRT CLOTHING PREMIUM"
+
+#: functions.php:268 functions.php:278
+msgid "Product Category Settings"
+msgstr "Настройки категории товаров"
+
+#: functions.php:314
+msgid "Section First Title"
+msgstr "Первое название раздела"
+
+#: functions.php:324
+msgid "Section Second Title"
+msgstr "Второе название раздела"
+
+#: functions.php:452
+msgid "UPGRADE T-SHIRT CLOTHING PREMIUM"
+msgstr "ОБНОВИТЬ ДО T-SHIRT CLOTHING PREMIUM"
+
+#: functions.php:458
+msgid "CLOTHING PREMIUM - Features"
+msgstr "CLOTHING PREMIUM - Функции"
+
+#: page-template/custom-home-page.php:131
+msgid "Days"
+msgstr "Дни"
+
+#: page-template/custom-home-page.php:132
+msgid "Hours"
+msgstr "Часы"
+
+#: page-template/custom-home-page.php:133
+msgid "Minutes"
+msgstr "Минуты"
+
+#: page-template/custom-home-page.php:134
+msgid "Seconds"
+msgstr "Секунды"
+
+#: functions.php:349
+msgid "Select Category to display Post"
+msgstr "Выберите рубрику для отображения записи"
+
+#: functions.php:461
+msgid "Boxed or fullwidth layout"
+msgstr "Макет Блок или Во всю ширину"
+
+#: functions.php:462
+msgid "Shortcode Support"
+msgstr "Поддержка шорткода"
+
+#: functions.php:463
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: functions.php:109 functions.php:119 functions.php:129 functions.php:139
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "pewilliams"
+msgstr "pewilliams"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/"
+msgstr "https://www.ovationthemes.com/"

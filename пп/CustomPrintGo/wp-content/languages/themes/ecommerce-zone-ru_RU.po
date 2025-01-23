@@ -1,0 +1,591 @@
+# Translation of Themes - Ecommerce Zone in Russian
+# This file is distributed under the same license as the Themes - Ecommerce Zone package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-17 15:10:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Ecommerce Zone\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Ecommerce zone can be used to design e-commerce websites for printed T-shirts, electronics, Mobile, food, restaurant, interior store, gadgets store, home appliances shop, fashion store, online shop, organic, retail, store, woocommerce website automobile, Smart Home Products and Accessories, AR/VR Headsets, Hardware furniture shops, digital marketing, online grocery and foods, clothes eCommerce, e shopay, gift box, bookstore, tools retail, equipment store, books store, sport shop, baby store, jewelry store, e-business, e-marketing, b2b, e-procurement, kitchen online shop, food selling website, photo store, movies store, toy store, digital product store, affiliate store, jewellery and almost any kind of store. This is a multipurpose theme with elegant and sophisticated design. The theme uses bootstrap framework and responsive design which will execute very well on any device. This is a user- friendly with many customization and personalisation options as well as SEO friendly. Ecommerce zone has modern, luxurious, cross-browser compatibility, interactive, diffrent layout options, Featured Images, stunning and retina ready design that will tempt you to work with it. Theme is absolutely translation ready and it supports RTL languages. You can also add shortcodes in these theme. You can create mobile responsive stores with personalization options. This theme is cleanly coded minimal yet stunning with full width template. Well optimized codes ensures faster loading time and quick response enhancing the core web vitals of your website. You can show your social existence and build credibility. With such beautiful and professional look your website visitors won’t leave without hitting the call to action button."
+msgstr "Ecommerce zone может быть использована для разработки сайтов электронной коммерции для печатных футболок, электроники, мобильных устройств, продуктов питания, ресторанов, интерьерных магазинов, магазинов гаджетов, магазинов бытовой техники, магазинов модной одежды, интернет-магазинов, органических товаров, розничной торговли, магазинов, woocommerce сайтов автомобилей, товаров и аксессуаров для умного дома, AR/VR гарнитур, магазинов мебели Hardware, цифрового маркетинга, интернет-магазин продуктов питания, интернет-магазин одежды, интернет-магазин товаров для дома, магазин подарков, книжный магазин, магазин инструментов, магазин оборудования, магазин книг, спортивный магазин, детский магазин, ювелирный магазин, электронный бизнес, электронный маркетинг, b2b, электронные закупки, интернет-магазин кухни, сайт по продаже продуктов питания, магазин фотографий, магазин фильмов, магазин игрушек, магазин цифровых товаров, партнерский магазин, ювелирный магазин и практически любой другой магазин. Это многоцелевая тема с элегантным и утонченным дизайном. Тема использует фреймворк bootstrap и отзывчивый дизайн, который будет отлично работать на любом устройстве. Это удобная тема с множеством возможностей для настройки и персонализации, а также SEO-дружественная. Тема Ecommerce zone имеет современный, роскошный, кроссбраузерный, интерактивный, различные варианты макета, Featured Images, потрясающий и готовый к ретина-дизайну дизайн, который привлечет вас к работе с ней. Тема полностью готова к переводу и поддерживает языки RTL. В этой теме также можно добавлять шорткоды. Вы можете создавать мобильно отзывчивые магазины с возможностью персонализации. Эта тема с минимальным кодом и потрясающим шаблоном во всю ширину сайта. Хорошо оптимизированный код обеспечивает быстрое время загрузки и быстрый отклик, улучшая основные веб-функции вашего сайта. Вы можете продемонстрировать свое социальное существование и повысить авторитет. С таким красивым и профессиональным внешним видом посетители сайта не уйдут, не нажав кнопку призыва к действию."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Ecommerce Zone"
+msgstr "Ecommerce Zone"
+
+#: inc/customizer.php:830
+msgid "Enable Disable Slider Loop"
+msgstr "Цикл слайдера вкл/откл"
+
+#: inc/customizer.php:102
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/customizer.php:154 inc/customizer.php:191 inc/customizer.php:292
+#: inc/customizer.php:550 inc/customizer.php:763 inc/customizer.php:803
+#: inc/customizer.php:929 inc/customizer.php:972 inc/customizer.php:1056
+#: inc/customizer.php:1184
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: inc/customizer.php:18
+msgid "Buy Ecommerce Zone Pro"
+msgstr "Купить Ecommerce Zone Pro"
+
+#: inc/customizer.php:819
+msgid "Enable Disable Slider"
+msgstr "Слайдер вкл/откл"
+
+#: inc/customizer.php:945
+msgid "Enable Disable Product"
+msgstr "Товар вкл/откл"
+
+#: inc/customizer.php:206
+msgid "Enable Disable Top Header"
+msgstr "Верхний заголовок вкл/откл"
+
+#: inc/customizer.php:375
+msgid "Show Theme Scroll To Top"
+msgstr "Показать тему прокрутить вверх"
+
+#: inc/customizer.php:169
+msgid "Theme Color One"
+msgstr "Цвет темы один"
+
+#: inc/customizer.php:179
+msgid "Theme Color Two"
+msgstr "Цвет темы два"
+
+#: inc/customizer.php:247
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-envelope-square"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.:-fas fa-convelope-square"
+
+#: inc/customizer.php:223
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-phone-square"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр:-fas fa-phone-square"
+
+#: inc/customizer.php:242
+msgid "Add Email Icon"
+msgstr "Добавить значок Email"
+
+#: inc/customizer.php:218
+msgid "Add Phone Icon"
+msgstr "Добавить значок телефона"
+
+#: inc/customizer.php:266
+msgid "Add Location Icon"
+msgstr "Добавьте значок местоположения"
+
+#: inc/customizer.php:271
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-map-marker-alt"
+msgstr "Выберите шрифт значков Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Нажмите здесь</a>, чтобы выбрать значок. напр.:-fas fa-map-marker-alt"
+
+#: inc/customizer.php:123
+msgid "Enable Disable Tagline"
+msgstr "Краткое описание вкл/откл"
+
+#: inc/customizer.php:112
+msgid "Enable Disable Title"
+msgstr "Заголовок вкл/откл"
+
+#: functions.php:545
+msgid "Basic Version"
+msgstr "Базовая версия"
+
+#: functions.php:535
+msgid "Checkout Documentation"
+msgstr "Документация по оформлению заказа"
+
+#: functions.php:504
+msgid "Checkout Premium"
+msgstr "Оформить заказ Премиум"
+
+#: functions.php:495 functions.php:498
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: functions.php:556
+msgid "Custom Navigation Logo Or Text"
+msgstr "Пользовательский логотип или текст навигации"
+
+#: functions.php:601
+msgid "Custom Text On Header Image"
+msgstr "Пользовательский текст на изображении заголовка"
+
+#: functions.php:651
+msgid "Customize Background Color"
+msgstr "Настройка цвета фона"
+
+#: functions.php:636
+msgid "Customize Blog Feed Color"
+msgstr "Настройка цвета фида блога"
+
+#: functions.php:641
+msgid "Customize Footer Color"
+msgstr "Настройка цвета подвала"
+
+#: functions.php:626
+msgid "Customize Navigation Color"
+msgstr "Настройка цвета навигации"
+
+#: functions.php:631
+msgid "Customize Post/Page Color"
+msgstr "Настройка цвета записи/страницы"
+
+#: functions.php:646
+msgid "Customize Sidebar Color"
+msgstr "Настройка цвета боковой панели"
+
+#: functions.php:621
+msgid "Customize Upper Widgets Colors"
+msgstr "Настройка цветов верхних виджетов"
+
+#: functions.php:581
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:532
+msgid "Free Vs Premium"
+msgstr "Free против Premium"
+
+#: functions.php:606
+msgid "Full Width (Hide Sidebar)"
+msgstr "Полная ширина (скрыть боковую панель)"
+
+#: functions.php:571
+msgid "Fully SEO Optimized"
+msgstr "Полностью SEO-оптимизированная"
+
+#: inc/customizer.php:299
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: functions.php:507
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: functions.php:664
+msgid "Go Premium"
+msgstr "Перейти на Премиум"
+
+#: functions.php:551
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: functions.php:561
+msgid "Hide Logo Text"
+msgstr "Скрыть текст логотипа"
+
+#: functions.php:656
+msgid "Importable Demo Content\t"
+msgstr "Импортируемый демо-контент"
+
+#: functions.php:591
+msgid "Only Show Header Image On Front Page"
+msgstr "Показывать только изображение заголовка на главной странице"
+
+#: functions.php:611
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Показывать только верхние виджеты на главной странице"
+
+#: functions.php:505
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Наша тема премиум-класса поставляется с расширенными функциями, такими как импорт демо-контента, адаптивные макеты и т. д."
+
+#: functions.php:586
+msgid "Pagespeed Plugin"
+msgstr "Плагин скорости страницы"
+
+#: inc/customizer.php:334
+msgid "Preloader Background Color"
+msgstr "Цвет фона анимации загрузки"
+
+#: inc/customizer.php:344
+msgid "Preloader First Dot Color"
+msgstr "Цвет первой точки загрузки"
+
+#: inc/customizer.php:354
+msgid "Preloader Second Dot Color"
+msgstr "Цвет второй точки загрузки"
+
+#: functions.php:566
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: functions.php:546
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: functions.php:576
+msgid "Recent Posts Widget"
+msgstr "Виджет последних записей"
+
+#: functions.php:616
+msgid "Replace Copyright Text"
+msgstr "Заменить текст авторского права"
+
+#: functions.php:513 functions.php:516
+msgid "Review"
+msgstr "Отзыв"
+
+#: functions.php:596
+msgid "Show Header Everywhere"
+msgstr "Показывать заголовок везде"
+
+#: inc/customizer.php:323
+msgid "Show Theme Preloader"
+msgstr "Показать анимацию загрузки темы"
+
+#: functions.php:544
+msgid "Theme Feature"
+msgstr "Функции темы"
+
+#: functions.php:480
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions.php:538
+msgid "View Theme Demo"
+msgstr "Посмотреть демонстрацию темы"
+
+#: functions.php:490
+msgid "Welcome To "
+msgstr "Добро пожаловать в "
+
+#: functions.php:457
+msgid "https://wordpress.org/support/theme/ecommerce-zone"
+msgstr "https://wordpress.org/support/theme/ecommerce-zone"
+
+#: functions.php:460
+msgid "https://wordpress.org/support/theme/ecommerce-zone/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/ecommerce-zone/reviews/#new-post"
+
+#: functions.php:496
+msgid "Thank you for trying Ecommerce Zone , feel free to contact us for any support regarding our theme."
+msgstr "Спасибо за попытку использования Ecommerce Zone, не стесняйтесь обращаться к нам за любой поддержкой, касающейся нашей темы."
+
+#: functions.php:514
+msgid "If You love Ecommerce Zone theme then we would appreciate your review about our theme."
+msgstr "Если вам нравится тема Ecommerce Zone, мы будем признательны за ваш отзыв о нашей теме."
+
+#: inc/customizer.php:364
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:161
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: functions.php:159
+msgid "Footer Column 1"
+msgstr "Столбец 1 подвала"
+
+#: functions.php:169
+msgid "Footer Column 2"
+msgstr "Столбец 2 подвала"
+
+#: functions.php:179
+msgid "Footer Column 3"
+msgstr "Столбец 3 подвала"
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "от %1$s."
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr "ПОЛУЧИТЬ ПРЕМИУМ"
+
+#: inc/customizer.php:14
+msgid "Ecommerce Zone Pro"
+msgstr "Ecommerce Zone Pro"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27 inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: functions.php:122 functions.php:131
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: comments.php:54 comments.php:68
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:81
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:45
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:176 inc/template-tags.php:196
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:1063
+msgid "Footer"
+msgstr "Подвал"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы просите. Попробуйте воспользоваться поиском."
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#: comments.php:57 comments.php:71
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:56 comments.php:70
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:56
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer.php:231
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/template-tags.php:175
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:54
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь!</a>."
+
+#: inc/customizer.php:1147
+msgid "Replace the footer text"
+msgstr "Заменить текст подвала"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск по:"
+
+#. translators: %s: search query.
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer.php:865
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: template-parts/socialmedia/header-logo.php:47
+msgid "shopping cart"
+msgstr "корзина для покупок"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова.."
+
+#: template-parts/navigation/navigation-top.php:13
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: inc/template-tags.php:201
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:255
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: inc/customizer.php:1000
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: inc/customizer.php:1045
+msgid "Select Product Category"
+msgstr "Выберите категорию товара"
+
+#: template-parts/navigation/navigation-top.php:35
+msgid "My Account"
+msgstr "Моя учётная запись"
+
+#: template-parts/navigation/navigation-top.php:38
+msgid "Login / Register"
+msgstr "Вход / Регистрация"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: %s: Tagged
+#: inc/template-tags.php:65
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#. Template Name of the theme
+msgid "Custom Front Page"
+msgstr "Произвольная главная страница"
+
+#: inc/customizer.php:279
+msgid "Location"
+msgstr "Местонахождение"
+
+#: page-template/custom-front-page.php:91
+msgid "SHOP NOW"
+msgstr "КУПИТЬ СЕЙЧАС"
+
+#: inc/customizer.php:198
+msgid "Top Header"
+msgstr "Верхний заголовок"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Боковая панель слева"
+
+#: inc/customizer.php:810
+msgid "Top Product Sale Slider"
+msgstr "Слайдер продаж лучших товаров"
+
+#: inc/customizer.php:811
+msgid "Here you have to add 3 different pages in below dropdown. Note: Image Dimensions 1200 x 400 px"
+msgstr "Здесь вы должны добавить 3 разные страницы в раскрывающемся списке ниже. Примечание. Размеры изображения 1400 x 550 px"
+
+#: inc/customizer.php:937
+msgid "Here you have to add 3 different pages in below dropdown. Note: Image Dimensions 260 x 160 px"
+msgstr "Здесь вы должны добавить 3 разные страницы в раскрывающемся списке ниже. Примечание. Размеры изображения 260 x 160 px"
+
+#: inc/customizer.php:959
+msgid "Select category Page"
+msgstr "Выберите рубрику страницы"
+
+#: inc/customizer.php:981
+msgid "Here you have to select product category which will display perticular product category, products in the home page."
+msgstr "Здесь вы должны выбрать категорию товара, которая будет отображать конкретную категорию товара, товары на главной странице."
+
+#: template-parts/navigation/navigation-top.php:28
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/navigation/navigation-top.php:25
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
